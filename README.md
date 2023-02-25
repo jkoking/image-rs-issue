@@ -1,5 +1,5 @@
 # image-rs-issue
-This is a repository to demonstrate a bug tesseract OCR in this dependencies are required see here https://crates.io/crates/leptess
+This is a repository to demonstrate a bug, tesseract OCR's dependencies are required see here https://crates.io/crates/leptess
 
 ## Expected behavior
 tesseract extracts text from screenshot and image-rs saves screenshot to disk
