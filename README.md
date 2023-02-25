@@ -4,5 +4,5 @@ This is a repository to demonstrate a bug tesseract OCR in this dependencies are
 ## Expected behavior
 tesseract extracts text from screenshot and image-rs saves screenshot to disk
 
-Actual behavior
+## Actual behavior
 tesseract extracts text from a screenshot and image-rs saves blank image to disc
