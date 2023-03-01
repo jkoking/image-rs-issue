@@ -1,4 +1,4 @@
-# image-rs-issue
+# image-rs-issue-1867
 This is a repository to demonstrate a bug. tesseract OCR's dependencies are required see here https://crates.io/crates/leptess
 
 ## Expected behavior
